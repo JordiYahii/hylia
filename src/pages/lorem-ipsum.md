@@ -1,6 +1,10 @@
 ---
 layout: layouts/page.njk
 title: Lorem ipsum
+permalink: lorem-ipsum-dolor
+metaTitle: Lorem ipsum dolor sit amet
+metaDesc: This is a description
+socialImage: /images/social-share.jpg
 ---
 Semper eget duis at tellus at urna condimentum mattis. Quisque egestas diam in arcu. Arcu felis bibendum ut tristique et egestas. Morbi quis commodo odio aenean sed adipiscing diam donec. Neque laoreet suspendisse interdum consectetur. Phasellus vestibulum lorem sed risus ultricies tristique nulla aliquet. Et egestas quis ipsum suspendisse ultrices gravida. Eleifend quam adipiscing vitae proin sagittis nisl. Vel fringilla est ullamcorper eget nulla facilisi etiam dignissim. Diam ut venenatis tellus in metus vulputate eu scelerisque felis. Facilisis leo vel fringilla est.
 
